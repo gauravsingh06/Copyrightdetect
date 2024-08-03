@@ -1,0 +1,34 @@
+{
+    "resize": {
+        "enabled": true,
+        "width": 640,
+        "height": null
+    },
+    "change_speed": {
+        "enabled": true,
+        "factor": 1.5
+    },
+    "add_border": {
+        "enabled": true,
+        "size": 15,
+        "color": [255, 0, 0]
+    },
+    "apply_color_filter": {
+        "enabled": true,
+        "filter_type": "sepia"
+    },
+    "overlay_text": {
+        "enabled": true,
+        "text": "Modified Video",
+        "position": "top",
+        "fontsize": 30,
+        "color": "yellow"
+    },
+    "reverse_video": {
+        "enabled": true
+    },
+    "adjust_audio_pitch": {
+        "enabled": true,
+        "pitch_factor": 1.2
+    }
+}

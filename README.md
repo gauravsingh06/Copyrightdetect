@@ -1,8 +1,4 @@
-Certainly! Below is the entire `README.md` file in one piece, which includes detailed instructions for using both the `VideoModifier` and `ContentFingerprint` scripts.
-
----
-
-# Media Processing Scripts
+# Copyright Detect & Media Modifier Scripts
 
 This repository contains two Python scripts designed for video and audio processing:
 
